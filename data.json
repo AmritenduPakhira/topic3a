@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Audi",
+    "password": "password123",
+    "price": "5999999",
+    "speed": "250 km/h",
+    "oil": "100%",
+    "photo": "audi.jpg",
+    "color": "Black"
+  },
+  {
+    "id": "2",
+    "name": "Porsche 911",
+    "password": "porsche123",
+    "speed": "330 km/h",
+    "oil": "90%",
+    "photo": "th.jpg",
+    "color": "Red"
+  },
+  {
+    "id": "3",
+    "name": "Ford Mustang",
+    "password": "mustang123",
+    "speed": "240 km/h",
+    "oil": "80%",
+    "photo": "ford-mustang-3.jpg",
+    "color": "Yellow"
+  },
+  {
+    "id": "4",
+    "name": "Mercedes",
+    "password": "password456",
+    "price": "2799000",
+    "speed": "250 km/h",
+    "oil": "100%",
+    "photo": "mercedes.jpg",
+    "color": "Red"
+  },
+  {
+    "id": "5",
+    "name": "Tesla Model S",
+    "password": "password789",
+    "price": "9099000",
+    "speed": "250 km/h",
+    "oil": "N/A (Electric Vehicle)",
+    "photo": "imtesla.jpg",
+    "color": "Silver"
+
+
+  }
+]
